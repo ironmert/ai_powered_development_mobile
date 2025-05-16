@@ -1,34 +1,10 @@
-<!-- Author: Gurkan Fikret Günak | File: participant_profile.md | Version: v0.1.0 -->
-
-> **Note:** This is a template.
-
-## 🚀 How to Use This File
-
-1. **Fork** this project repository.  
-   ![Fork](https://img.icons8.com/ios-filled/24/000000/code-fork.png)
-
-2. **Create a folder named `docs`** in the root directory of your forked project.  
-   ```
-   your-project-root/
-     └── docs/
-   ```
-
-3. **Copy this file** (`participant_profile.md`) into the `docs` folder.
-
-4. **Update your information** in this file.  
-   - Fill in your name, contact, and other details.
-   - Check the boxes that apply to you.
-
-5. **Commit your changes** following the commit message rules.
----
-
 # Participant Basic Guidance v0.1.0
 
 ## Participant Information
 
 This document contains information about the participant developer who contributed to the project.
 
-## Participant Name: Gurkan Fikret Günak
+## Participant Name: Mert Demir
 
 - University: Belirtilmedi<!-- Add university name or remove if not applicable -->
 - Department: Eşit Ağırlık<!-- Add department name or remove if not applicable -->
