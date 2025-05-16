@@ -30,16 +30,18 @@ This document contains information about the participant developer who contribut
 
 ## Participant Name: Gurkan Fikret Günak
 
-- University: <!-- Add university name or remove if not applicable -->
-- Department: <!-- Add department name or remove if not applicable -->
-- Email: <!-- Add email address -->
-- GitHub: [gurkanfikretgunak](https://github.com/gurkanfikretgunak)
-- LinkedIn: [Gurkan Fikret Günak](https://www.linkedin.com/in/gurkanfikretgunak/)
-- Personal Website: [gurkanfikretgunak.com](https://www.gurkanfikretgunak.com)
+- University: Belirtilmedi<!-- Add university name or remove if not applicable -->
+- Department: Eşit Ağırlık<!-- Add department name or remove if not applicable -->
+- Email: iletisim@mertmir.net <!-- Add email address -->
+- GitHub: [ironmert](https://github.com/ironmert)
+- LinkedIn: [Mert Demir](https://www.linkedin.com/in/mertmir/)
+- Personal Website: [mertmir.net](https://www.mertmir.net)
 
-Gurkan Fikret Günak is a passionate software developer with expertise in mobile development and AI-powered applications. He has contributed to the architecture, implementation, and integration of core features in this project.
+Mert Demir, teknolojiye tutkuyla bağlı, kendini geliştiren ve girişimci ruha sahip bir yazılımcıdır. Yazılım dünyasına yerel teknoloji etkinlikleri ve gönüllü projelerle adım atmış; bu süreçte web geliştirme, sosyal medya yönetimi ve proje üretimi konularında deneyim kazanmıştır.
 
-Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website to connect or learn more about his projects and experiences.
+Kod yazmanın yanı sıra, öğrenmeye olan merakı ve üretme arzusu sayesinde sürekli yeni teknolojilere adapte olur. Özellikle yapay zekâ entegrasyonu, kullanıcı odaklı arayüz tasarımı ve ekip içi iş birliği alanlarına ilgi duyar.
+
+Şu anda üniversite sınavına hazırlık sürecinde olan Mert, aynı zamanda freelance projeler ve kişisel çalışmalarla portföyünü zenginleştirmektedir. Gelecekteki hedefi; teknik bilgisini girişimcilik vizyonuyla birleştirerek insanlara fayda sağlayacak dijital ürünler ortaya koymaktır.
 
 ## **Participant's Project Development Environment Checklist:**
 
@@ -49,8 +51,8 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
   - [ ] Other (Please specify)
 
 - **IDE (Integrated Development Environment)**
-  - [ ] Android Studio
-  - [ ] Visual Studio Code
+  - [X] Android Studio
+  - [X] Visual Studio Code
   - [ ] Xcode
   - [ ] Other (Please specify)
 
@@ -66,20 +68,20 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 
 - **Communication Channel**
   - [ ] Slack
-  - [ ] Microsoft Teams
-  - [ ] Other (Please specify)
+  - [X] Microsoft Teams
+  - [X] Other (Meet)
 
 - **API Integration**
-  - [x] Yes
-  - [ ] No
+  - [] Yes
+  - [x] No
 
 - **Documentation**
-  - [x] Yes
+  - [ ] Yes
   - [ ] No
 
 - **Testing**
-  - [x] Yes
-  - [ ] No
+  - [ ] Yes
+  - [x] No
 
 - **Open Source**
   - [ ] Yes
@@ -87,20 +89,20 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 
 ## Key Skills & Contributions
 
-- Mobile development (iOS/Android)
-- AI-powered application design
-- Project architecture and design
-- CI/CD pipeline setup
+- Web & mobile development basics  
+- AI integration research  
+- Task execution and team coordination  
+- Eagerness to learn and apply best practices
 
 ## References & Resources
 
-- [Official React Native Documentation](https://reactnative.dev/docs/getting-started)
-- [Flutter Documentation](https://docs.flutter.dev/)
-- [Google Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
-- [Firebase Documentation](https://firebase.google.com/docs)
-- [Firebase Studio](https://console.firebase.google.com/)
-- [Clean Code by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)
-- [AI Integration Patterns](https://developer.ibm.com/articles/ai-integration-patterns/)
+- [Personal agency showcasing digital projects and services.](https://termdigital.mertmir.net)
+- [ A productivity and habit-building tool for long-term consistency.](https://direnc.mertmir.net/)
+- [Web app offering calming techniques for exam stress management.](https://nefes.mertmir.net/)
+- [A tool to help students calculate their estimated YKS results.](https://nethesaplama.mertmir.net/)
+- [I managed the Instagram content of Çukurova University's One and a Half Formula Student Racing Team.](https://www.instagram.com/birbucuk.formula/)
+- [Led content creation and engagement strategies for a local business.](https://www.instagram.com/butcegrossmarket/)
+- [Produced video content and managed channel growth for a mindset-focused YouTube project.](https://www.youtube.com/@mindsetofmen1/featured)
 
 ---
 
